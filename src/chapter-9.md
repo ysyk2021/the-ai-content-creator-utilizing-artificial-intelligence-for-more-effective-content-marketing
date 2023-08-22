@@ -1,5 +1,4 @@
-Chapter 8: Case Studies: Real-World Examples of AI Implementation for Content Marketing
-=======================================================================================
+
 
 Case Studies of Companies Who Have Successfully Implemented AI for Content Marketing
 ------------------------------------------------------------------------------------
