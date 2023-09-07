@@ -14,3 +14,7 @@ Artificial intelligence (AI) technology offers a solution to this challenge. By 
 Whether you are a small business owner looking to improve your content marketing strategy or a marketer interested in the latest trends in AI-powered content creation, this book is for you. By the end of this book, you will have a thorough understanding of how AI can be used to enhance your content marketing efforts and drive engagement and conversions.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
