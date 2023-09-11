@@ -1,5 +1,4 @@
-Chapter: Explanation of AI Technology and its Capabilities for Content Creation
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) technology has revolutionized various industries, including content marketing. In this chapter, we will explore the fundamentals of AI technology and its capabilities for content creation. Understanding how AI works and its potential applications in generating high-quality content can help content creators leverage this powerful tool to enhance their content marketing strategies.
 

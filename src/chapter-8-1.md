@@ -1,5 +1,4 @@
-Chapter: Strategies for Building a Content Marketing Strategy that Utilizes AI
-==============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 A successful content marketing strategy requires harnessing the power of AI to create engaging and effective content. This chapter explores strategies for building a content marketing strategy that leverages AI to maximize its impact.
 

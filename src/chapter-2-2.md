@@ -1,5 +1,4 @@
-Chapter: Types of AI: Natural Language Processing, Machine Learning, and Deep Learning
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Artificial intelligence (AI) encompasses various techniques and approaches that enable computers to mimic human intelligence. This chapter explores three prominent types of AI: Natural Language Processing (NLP), Machine Learning (ML), and Deep Learning (DL). Understanding these types of AI is critical in comprehending the capabilities and potential of AI in content creation and marketing strategies.
 
